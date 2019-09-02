@@ -1,0 +1,17 @@
+{
+  "name": "MUME Web Client",
+  "description": "MUME (Multi-Users in Middle-Earth) Free, MMO based on the Lord of the Rings and other works of J.R.R. Tolkien",
+  "version": "0.1",
+  "manifest_version": 2,
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  },
+  "icons": { "16": "mume-16.png", "128": "mume-128.png" },
+  "permissions": [
+    "https://test.waba.be/mume/play/index.html",
+	"webview",
+	"fullscreen"
+  ]
+}
