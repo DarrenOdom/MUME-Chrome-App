@@ -7,4 +7,6 @@ To use this app, get the cfx file from the bin folder and install it via Google 
 
 See the issues page to see the list of known tasks and bugs that need attention.
 
+Version 1.1 submitted.  https://chrome.google.com/webstore/detail/mume-web-client/gcagpbjjiepgdaaebhpmmpjjflcmncho
+
 
