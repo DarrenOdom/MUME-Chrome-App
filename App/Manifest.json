@@ -1,7 +1,7 @@
 {
   "name": "MUME Web Client",
-  "description": "MUME (Multi-Users in Middle-Earth) Free, MMO based on the Lord of the Rings and other works of J.R.R. Tolkien",
-  "version": "0.1",
+  "description": "MUME (Multi-Users in Middle-Earth) - Free multiplayer game based on the Lord of the Rings and other works of J.R.R. Tolkien",
+  "version": "1.1",
   "manifest_version": 2,
   "app": {
     "background": {
